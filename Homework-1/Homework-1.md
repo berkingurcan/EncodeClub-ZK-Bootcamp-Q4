@@ -24,5 +24,5 @@ When we consider S and addition operation '+' corresponding properties above, it
 
 3) -13 mod 5 = 2
 4) For the polynomial x<sup>3</sup>−x<sup>2</sup> + 4x − 12
-- The positive root is
-- The degree of this polynomial ,s
+- The positive root is 2
+- The degree of this polynomial is 3
