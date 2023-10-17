@@ -1,0 +1,5 @@
+verification.key
+*.key
+*.r1cs
+*.wtns
+*out
